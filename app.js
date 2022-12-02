@@ -32,7 +32,7 @@ const getUser = async(username) => {
 
 
 // init call
-getUser("Shivanshj25") // Change this name for default GitHub Users!!
+getUser("aarvi18") // Change this name for default GitHub Users!!
 
 
 const getRepos = async(username) => {
